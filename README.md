@@ -1,2 +1,5 @@
 # C-HelloWorld
-a test for git
+
+Hi there, Louis here, a green hand of coding;
+IOS major
+Python minor
